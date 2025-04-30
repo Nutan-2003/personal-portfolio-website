@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A modern, responsive portfolio website to showcase my projects, skills, and blog posts as a Computer Science Engineering student.
+A modern, responsive portfolio website to showcase my projects, skills, and blog posts as a Computer Science Engineering student. Built with HTML, CSS, and JavaScript, featuring animated cards and a clean, professional design.
 
 ## Table of Contents
 - [Demo](#demo)
@@ -15,6 +15,12 @@ A modern, responsive portfolio website to showcase my projects, skills, and blog
 - [Contact](#contact)
 
 ## Demo
+
+## Demo
+
+![Homepage Screenshot](assets/projects/image-1.jpeg)
+
+![Blog Section](assets/projects/image-2.jpeg)
 
 [View Live Portfolio](https://your-username.github.io/your-repo-name/)
 ## Features
