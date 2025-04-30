@@ -18,6 +18,8 @@ A modern, responsive portfolio website to showcase my projects, skills, and blog
 ## Demo
 
 ![Homepage Screenshot](assets/projects/image-1.jpeg)
+![image](https://github.com/user-attachments/assets/d149a5a3-9f5d-48e7-90f6-af4959c7d2ec)
+
 
 ![Blog Section](assets/projects/image-2.jpeg)
 
