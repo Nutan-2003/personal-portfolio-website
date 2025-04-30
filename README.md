@@ -14,7 +14,6 @@ A modern, responsive portfolio website to showcase my projects, skills, and blog
 - [License](#license)
 - [Contact](#contact)
 
-## Demo
 
 ## Demo
 
